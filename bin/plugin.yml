@@ -1,0 +1,10 @@
+name: ControlMenu
+main: nl.deadlykitten.ControlPanel.Main
+description : null
+version: 1.1
+author: DeadlyKitten
+
+commands:
+    menu:
+    set-true:
+    set-false:
